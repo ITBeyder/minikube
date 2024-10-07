@@ -132,3 +132,6 @@ spec:
     - --data-dir=/home/docker/etcdbackup
     ...
 ```
+
+![image](https://github.com/user-attachments/assets/f4bcb776-0861-4cf1-b2c3-7f946bf1d996)
+
