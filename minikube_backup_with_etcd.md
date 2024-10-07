@@ -1,3 +1,6 @@
+
+https://medium.com/@mehmetodabashi/backup-and-restore-etcd-cluster-on-kubernetes-93c19b1c070
+
 # Backup Minikube with etcd
 
 ## 1. Install etcd CLI
